@@ -22,4 +22,6 @@ public class TextBox extends UIControl{
     public void clear(){
         this.text = "";
     }
+
+
 }
